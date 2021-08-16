@@ -1,0 +1,7 @@
+{
+  "name": "SSH online",
+  "description": "Deploy do SSH online",
+  "repository": "https://github.com/nirui/sshwifty",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "express", "static"]
+}
